@@ -1,5 +1,7 @@
 {
   "name": "Bild-zu-Text OCR",
   "description": "Eine Single-Page-Anwendung in einer einzigen HTML-Datei, die Tesseract.js verwendet, um Text aus Bildern zu extrahieren. Benutzer können Bilder hochladen, mit der Kamera aufnehmen oder aus der Zwischenablage einfügen.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
